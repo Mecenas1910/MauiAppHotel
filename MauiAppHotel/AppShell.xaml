@@ -15,7 +15,6 @@
     </FlyoutItem>
 
     <FlyoutItem Title="Sobre" 
-                Icon="icon_info.png" 
                 Route="Sobre">
         <ShellContent ContentTemplate="{DataTemplate local:Sobre}" />
     </FlyoutItem>
