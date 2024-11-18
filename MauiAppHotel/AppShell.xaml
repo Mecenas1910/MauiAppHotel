@@ -8,7 +8,6 @@
        FlyoutBackgroundColor="{StaticResource Primary}"
        FlyoutBehavior="Flyout">
 
-    <!-- Menu Lateral -->
     <FlyoutItem Title="Contratação" 
                 Icon="icon_home.png" 
                 Route="ContratacaoHospedagem">
