@@ -1,1 +1,1 @@
-Essa série de videoulas faz parte do meu curso grátis Criando Aplicativos com .NET MAUI. Em especial, o AppHotel faz um panorama sobre elementos de interface gráfica .NET MAUI como Stepper, DatePicker, Picker e uma introdução com conceito de BidingContext
+
